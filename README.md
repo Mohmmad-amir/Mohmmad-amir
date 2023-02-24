@@ -1,8 +1,8 @@
 
 
 <h1 align="center">Hi there 👋, Mohmmad Amir</h1>
-<h3 align="center">Software Engineer | Web Developer | Diploma-Engineer In Computer.</h3>
-<p align="center"> <img src="https://user-images.githubusercontent.com/76723565/221138602-cf89ec31-9ff9-4c9a-9c50-707d3f8d8cd0.jpg" alt="mohmmad-amir" /> </p>
+<h5 align="center">Software Engineer | Web Developer | Diploma-Engineer In Computer.</h5>
+<p align="center"> <img width="800px" src="https://user-images.githubusercontent.com/76723565/221138602-cf89ec31-9ff9-4c9a-9c50-707d3f8d8cd0.jpg" alt="mohmmad-amir" /> </p>
 
 <h3 align="center">I'm Mohmmad Amir from Bangladesh, and I do content on Design and Development. I really enjoy learning languages and frameworks like NodeJS and ExpressJS, as well as work in Web Application.</h3>
 
