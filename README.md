@@ -2,6 +2,7 @@
 
 <!--
 **Mohmmad-amir/Mohmmad-amir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![git-banner](https://user-images.githubusercontent.com/76723565/221138602-cf89ec31-9ff9-4c9a-9c50-707d3f8d8cd0.jpg)
 
 Here are some ideas to get you started:
 
